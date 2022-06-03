@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,mBAAmB;CACnC",
+    "sources": [
+        "style.scss",
+        "../scss/base/_base.scss",
+        "../scss/components/_status.scss",
+        "../scss/config/_font.scss",
+        "../scss/config/_variables.scss",
+        "../scss/layout/_battery-card.scss",
+        "../scss/layout/_breakpoint.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
